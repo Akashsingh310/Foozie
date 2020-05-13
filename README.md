@@ -5,5 +5,6 @@ Basically whose contact details are save in backend of admin pannel
 I have added image of all web pages in IMG preview 
 
 
-to run the code write on terminal  python manage.py runserver
+to run the code write on terminal  <br>
+<strong>python manage.py runserver</strong>
 
