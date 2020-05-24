@@ -6,7 +6,7 @@ I have added image of all web pages in IMG preview
 
 
 to run the code write on terminal  <br>
-<strong>python manage.py runserver</strong>
+<strong>`python manage.py runserver`</strong>
 
 <strong>IMG PREVIEW </strong>
 
@@ -22,4 +22,3 @@ This is <strong> About us </strong> Section
 
 This is <strong>Contact Form </strong> Data of this form store at Admin Database.
 ![CONTACT US ](https://github.com/Akashsingh310/django-based-Foozie-Food-Delivery-Website-Example-/blob/master/IMG%20preview/contact%20us.png)
-
